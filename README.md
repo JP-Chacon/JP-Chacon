@@ -1,4 +1,4 @@
-# 👨🏻‍💻 João Pedro Chacon
+# 👨🏻‍💻 João Pedro Chacon de Souza
 
 **`Sistemas de Informação`**
 
