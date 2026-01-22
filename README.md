@@ -203,7 +203,7 @@ Me chamo João Pedro Chacon de Souza, tenho 28 anos e sou natural do Mato grosso
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      src="https://github-readme-stats.vercel.app/api?username=JP-Chacon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub"
+      src="https://github-readme-stats.vercel.app/api?username=JP-Chacon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
  
   />
 
